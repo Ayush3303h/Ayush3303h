@@ -59,14 +59,15 @@
 
 ---
 
-<<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ayush3303h&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=ayush3303h&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
+
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
