@@ -59,14 +59,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ayush3303h&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush3303h&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush3303h&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ayush3303h&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
 
 ---
 
