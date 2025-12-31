@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/qFcRL4Tx/1731358963902.jpg" alt="Ayush Sahu Banner" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+%26+App+Developer;Web3+%26+Blockchain+Learner;Always+Learning+New+Technologies&center=true&width=650&height=50">
