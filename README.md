@@ -59,16 +59,14 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush3303h&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ayush3303h&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush3303h&theme=dark&hide_border=true"/>
-</p>
-
 ---
 
 <h2 align="center">🏆 GitHub Trophies</h2>
