@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Ayush Sahu Banner" />
+  <img src="https://i.ibb.co/qFcRL4Tx/1731358963902.jpg" alt="Ayush Sahu Banner" />
 </p>
 
 <p align="center">
