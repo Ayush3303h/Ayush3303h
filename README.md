@@ -67,11 +67,8 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush3303h&theme=darkhub&no-frame=true&row=1"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ayush3303h&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
